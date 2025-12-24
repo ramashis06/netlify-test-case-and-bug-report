@@ -54,19 +54,19 @@ You can add screenshots in a `/screenshots` folder and link them like this:
 
 
 ### BUG-LG-001 - Password accepts only spaces
-[Password only spaces](https://github.com/ramashis06/netlify-test-case-and-bug-report/blob/7815e892c3342f162782949a234befa47a7ae8db/Screenshot%202025-12-25%20020443.png)
+![Password only spaces](https://github.com/ramashis06/netlify-test-case-and-bug-report/blob/7815e892c3342f162782949a234befa47a7ae8db/Screenshot%202025-12-25%20020443.png)
 
 ### BUG-LG-006 - Missing show/hide toggle
-![No toggle](https://github.com/ramashis06/netlify-test-case-and-bug-report/blob/7815e892c3342f162782949a234befa47a7ae8db/Screenshot%202025-12-25%20020443.png)
+![No toggle](https://github.com/ramashis06/netlify-test-case-and-bug-report/blob/c984d227b027dc8e200fbe3a6d70df601077e3f5/Screenshot%202025-12-25%20021149.png)
 
-```
 ## Environment & Tools
 
 
-Browser: Brave
-Testing Type: Manual
-Documentation: Manual (Excel/Google Sheets)
-Automation: Not implemented
+Browser: Brave   
+Testing Type: Manual   
+Documentation: Manual (Excel/Google Sheets)   
+Automation: Not implemented   
+Project File: [EP3_RAMA SHIS.xlsx](https://github.com/ramashis06/netlify-test-case-and-bug-report/blob/c984d227b027dc8e200fbe3a6d70df601077e3f5/EP3_RAMA%20SHIS.xlsx)
 
 ## Recommendations for Improvement
 
